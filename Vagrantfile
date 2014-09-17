@@ -57,6 +57,8 @@ composer_packages     = [        # List any global Composer packages that you wa
 # Default web server document root
 # Symfony's public directory is assumed "web"
 # Laravel's public directory is assumed "public"
+
+# Here we set the public folder to the httpdocs folder which will contain Magento
 public_folder         = "/vagrant/httpdocs"
 
 laravel_root_folder   = "/vagrant/laravel" # Where to install Laravel. Will `composer install` if a composer.json file exists
