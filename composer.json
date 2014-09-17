@@ -1,0 +1,6 @@
+{
+	"require-dev": {
+		"n98/magerun": "dev-master"
+	},
+	"minimum-stability" : "dev"
+}
